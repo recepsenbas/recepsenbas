@@ -12,7 +12,7 @@ I enjoy the full process — from drawing the schematic and routing the board to
 I’ve worked with systems that use STM32, LoRa, NB-IoT, RS485, and Modbus communication, often combined with Flutter-based mobile interfaces.
 
 Some of the projects I’m proud of:  
-- **PowerStat** – a 3-phase energy monitoring system with mobile control  
+- [**PowerStat**](https://stf.com.tr/dijital-tarim/) – a 3-phase energy monitoring system with mobile control  
 - **WeatherStat** – LoRa-based weather station used in field environments  
 - **FilterStat** – IoT filtration control device for agricultural systems  
 - **UV Lens Tester** – small bench-top device that measures UV protection of eyeglass lenses  
